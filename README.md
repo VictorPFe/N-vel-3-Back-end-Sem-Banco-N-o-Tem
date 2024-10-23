@@ -1,6 +1,6 @@
 # Projeto CadastroBD
 
-# Aluno: Alex Barroso Paz  - Matricula: 2023 06 15 1781 
+# Aluno: Victor Pessoa Ferreira
 
 
 ## Descrição
@@ -60,8 +60,3 @@ A prática inclui a elaboração de um relatório em formato PDF, contendo:
 - Anexe a documentação do projeto (em PDF) ao repositório.
 - Compartilhe o link do repositório com o tutor para correção.
 
-## Referências
-
-- [Introdução ao JDBC](https://www.devmedia.com.br/jdbc-tutorial/6638)
-- [Padrões de Projeto](https://refactoring.guru/pt-br/design-patterns)
-- [Os 4 pilares da Programação Orientada a Objetos](https://www.devmedia.com.br/os-4-pilares-da-programacao-orientada-a-objetos/9264)
